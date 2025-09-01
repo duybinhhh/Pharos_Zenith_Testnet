@@ -140,11 +140,11 @@ wallets = [
 
 ## 📘 License
 
-**This tool is for educational and testing purposes only.**
+This tool is for educational and testing purposes only.
 
-**The authors are not responsible for any misuse or financial loss.**
+The authors are not responsible for any misuse or financial loss.
 
-**This project is licensed under the [MIT License](LICENSE).**
+This project is licensed under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
