@@ -58,12 +58,12 @@ python -m cli.main
 You will be prompted with options:
 Select Option:
 
-- 1. Wrapped - Unwrapped
-- 2. Swap WPHRS - USDC - USDT
-- 3. Add Liquidity Pool
-- 4. Check In
-- 5. Faucet Claim
-- 6. Single Transfer
+- Wrapped - Unwrapped
+- Swap WPHRS - USDC - USDT
+- Add Liquidity Pool
+- Check In
+- Faucet Claim
+- Single Transfer
 - Choose [1-6]:
 
 ## 📂 Project Structure
@@ -127,18 +127,23 @@ wallets = [
 ]
 ```
 
-## 🧪 Example Command Output
+## 🧪 Example Command Output (for addliquidity and swap)
+
+```bash
 
 🚀 Wallet 1: 0x1234abcd...
 ⚠️ No proxy!
 ✅ Successfully swapped WPHRS → USDC
 💧 LP Added to WPHRS-USDT
 🎉 Claimed faucet
+```
 
 ## 📘 License
 
 **This tool is for educational and testing purposes only.**
+
 **The authors are not responsible for any misuse or financial loss.**
+
 **This project is licensed under the [MIT License](LICENSE).**
 
 ## 🙋‍♂️ Author
